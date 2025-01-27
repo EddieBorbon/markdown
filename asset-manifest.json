@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EddieBorbon/markdown-previewerMarina/static/css/main.6fd2bcf2.css",
+    "main.js": "/EddieBorbon/markdown-previewerMarina/static/js/main.708375c4.js",
+    "static/js/488.c9f633ef.chunk.js": "/EddieBorbon/markdown-previewerMarina/static/js/488.c9f633ef.chunk.js",
+    "index.html": "/EddieBorbon/markdown-previewerMarina/index.html",
+    "main.6fd2bcf2.css.map": "/EddieBorbon/markdown-previewerMarina/static/css/main.6fd2bcf2.css.map",
+    "main.708375c4.js.map": "/EddieBorbon/markdown-previewerMarina/static/js/main.708375c4.js.map",
+    "488.c9f633ef.chunk.js.map": "/EddieBorbon/markdown-previewerMarina/static/js/488.c9f633ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fd2bcf2.css",
+    "static/js/main.708375c4.js"
+  ]
+}
